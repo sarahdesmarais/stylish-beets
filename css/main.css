@@ -4,6 +4,10 @@ html {
   line-height: 1.5;
 }
 
+img {
+  width: 100%;
+}
+
 h1 {
   font-size: 1.5rem;
   color: #3f1622;
