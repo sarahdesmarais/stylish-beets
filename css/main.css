@@ -27,7 +27,7 @@ nav ol {
   list-style: none;
 }
 
-a:link {
+a {
   color: #8f2440;
   text-decoration: none;
 }
@@ -35,10 +35,6 @@ a:link {
 a:hover {
   color: #3f1622;
   text-decoration: underline;
-}
-
-a:visited {
-  color: #8f2440;
 }
 
 figcaption {
